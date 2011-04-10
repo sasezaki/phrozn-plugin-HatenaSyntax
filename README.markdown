@@ -1,7 +1,7 @@
 HatenaSyntax Phrozn plugins
 --------------
 
-# Prhzon #
+# Phrozn #
 
   - Phrozn is static site generator written in PHP.
   - http://www.phrozn.info/en/
