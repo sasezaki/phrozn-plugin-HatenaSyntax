@@ -6,7 +6,7 @@ HatenaSyntax Phrozn plugins
   - Phrozn is static site generator written in PHP.
   - http://www.phrozn.info/en/
 
-# HatenxSyntax #
+# HatenaSyntax #
 
   - HatenaSyntax - Japanese diary service 's syntax like wiki.
     - http://d.hatena.ne.jp/
